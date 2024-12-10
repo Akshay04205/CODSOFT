@@ -1,4 +1,4 @@
-# CODSOFT
+# MINI AI PROJECT 
 ## Project Description
 
 1. **Chatbot with Rule-Based Responses**  
